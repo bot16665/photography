@@ -3,7 +3,7 @@
 🚀 This project is a **frontend clone** of the https://www.visualviewmedia.com website.  
 It was built **only for learning and practice purposes** as I try to improve my frontend development skills.
 ---
-my clone :- photographybyaz.vercel.app  
+my clone :-https://photographybyaz.vercel.app/  
 This is Only For desktop view  
 ---
 
