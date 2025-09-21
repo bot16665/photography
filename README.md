@@ -60,8 +60,7 @@ Azhar shaikh
 
 Trying to become a better frontend programmer 🚀
 
-yaml
-Copy code
+
 
 ---
 
